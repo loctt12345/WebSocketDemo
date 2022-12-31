@@ -1,2 +1,2 @@
 # WebSocketDemo
-Demo for websocket with spring mvc framework.
+Demo for websocket with spring framework.
